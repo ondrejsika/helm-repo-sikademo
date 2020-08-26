@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(?<path>[a-zA-Z0-9._/-]+)",
+      "dest": "https://raw.githubusercontent.com/ondrejsika/helm-repo-ondrejsika/master/repo/$path"
+    }
+  ]
+}
