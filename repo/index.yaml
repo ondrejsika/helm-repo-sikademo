@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  counter:
+  - apiVersion: v2
+    created: "2020-08-26T06:24:55.775085+02:00"
+    description: A Helm chart for Counter
+    digest: 46d48d8c25f6e7b7abe7a031d53841d1fed19e59f1139de35aca1d1c30f4692e
+    name: counter
+    type: application
+    urls:
+    - counter-2020.05.29.tgz
+    version: 2020.05.29
+  - apiVersion: v2
+    created: "2020-08-26T06:24:55.774817+02:00"
+    description: Simple Counter App
+    digest: 5bed1b1c1b2fdc481488b24a5a91c99258c5e4c208369aa887219f7e78df2bc4
+    name: counter
+    type: application
+    urls:
+    - counter-2020.04.17.tgz
+    version: 2020.04.17
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-26T06:24:55.774527+02:00"
+    description: Counter App
+    digest: 503ea9a136a4f80bd9c2bc1d5fe9ccdcfd3c885c998b2c90815eecf4aacb09b1
+    name: counter
+    type: application
+    urls:
+    - counter-2019.02.05.tgz
+    version: 2019.02.05
+generated: "2020-08-26T06:24:55.773081+02:00"
