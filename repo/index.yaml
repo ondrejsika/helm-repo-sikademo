@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   counter:
   - apiVersion: v2
-    created: "2020-10-01T15:06:44.37529+02:00"
+    created: "2020-10-07T16:02:13.113394+02:00"
+    description: Simple demo counter app
+    digest: 6aafe89e721c1baceb01a73654492e5512cc15a0b98489a5f7009d0a2527345f
+    name: counter
+    type: application
+    urls:
+    - counter-2020.10.07.tgz
+    version: 2020.10.07
+  - apiVersion: v2
+    created: "2020-10-07T16:02:13.113173+02:00"
     description: Simple counter app
     digest: 6414bb505c28edfb4fc87438186bf7c9e36b0214b1fdb8ef037c8e81dfad55dc
     name: counter
@@ -11,7 +20,7 @@ entries:
     - counter-2020.10.01.tgz
     version: 2020.10.01
   - apiVersion: v2
-    created: "2020-10-01T15:06:44.374061+02:00"
+    created: "2020-10-07T16:02:13.112712+02:00"
     description: A simple counter app
     digest: fd1be2baf4b9c95a7709d87a1c1817e2ea8f0b3f6b1ad9e58c713ffa668a4b7d
     name: counter
@@ -20,7 +29,7 @@ entries:
     - counter-2020.09.18.tgz
     version: 2020.09.18
   - apiVersion: v2
-    created: "2020-10-01T15:06:44.373306+02:00"
+    created: "2020-10-07T16:02:13.112184+02:00"
     description: Simple Counter App
     digest: 6961b084a9b3fd1efda1715ee751752f5671a42edecc1a242df7a81f6f89388c
     name: counter
@@ -29,7 +38,7 @@ entries:
     - counter-2020.08.26.tgz
     version: 2020.08.26
   - apiVersion: v2
-    created: "2020-10-01T15:06:44.37282+02:00"
+    created: "2020-10-07T16:02:13.111714+02:00"
     description: A Helm chart for Counter
     digest: 46d48d8c25f6e7b7abe7a031d53841d1fed19e59f1139de35aca1d1c30f4692e
     name: counter
@@ -38,7 +47,7 @@ entries:
     - counter-2020.05.29.tgz
     version: 2020.05.29
   - apiVersion: v2
-    created: "2020-10-01T15:06:44.372284+02:00"
+    created: "2020-10-07T16:02:13.111261+02:00"
     description: Simple Counter App
     digest: 5bed1b1c1b2fdc481488b24a5a91c99258c5e4c208369aa887219f7e78df2bc4
     name: counter
@@ -48,7 +57,7 @@ entries:
     version: 2020.04.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-10-01T15:06:44.371755+02:00"
+    created: "2020-10-07T16:02:13.110777+02:00"
     description: Counter App
     digest: 503ea9a136a4f80bd9c2bc1d5fe9ccdcfd3c885c998b2c90815eecf4aacb09b1
     name: counter
@@ -56,4 +65,4 @@ entries:
     urls:
     - counter-2019.02.05.tgz
     version: 2019.02.05
-generated: "2020-10-01T15:06:44.370935+02:00"
+generated: "2020-10-07T16:02:13.109485+02:00"
