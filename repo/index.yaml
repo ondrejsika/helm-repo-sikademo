@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   counter:
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.24025+01:00"
+    created: "2021-12-17T15:57:07.648466+01:00"
+    description: A simple counter app
+    digest: 8f744cf96dd1a5b1f97a086a44bfea3aeb11c86184d0fc976f4023769917f98d
+    name: counter
+    type: application
+    urls:
+    - counter-2021.12.17.tgz
+    version: 2021.12.17
+  - apiVersion: v2
+    created: "2021-12-17T15:57:07.648289+01:00"
     description: A simple app
     digest: 79463025f0fb4b8eda8f5bfbfb49fd21b760ff4d1b59a1b26da8a6d91ee69336
     name: counter
@@ -11,7 +20,7 @@ entries:
     - counter-2021.12.10.tgz
     version: 2021.12.10
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.240117+01:00"
+    created: "2021-12-17T15:57:07.64806+01:00"
     description: A simple counter app
     digest: 0c45feb247f09876b478995a8fdabfdb0517ac65024bf5cb792d57baca49f96f
     name: counter
@@ -20,7 +29,7 @@ entries:
     - counter-2021.12.02.tgz
     version: 2021.12.02
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.2399+01:00"
+    created: "2021-12-17T15:57:07.647792+01:00"
     description: Simple Counter App
     digest: a3ed9f6053ff63ad5427a3b317767268a5f4814247e09515ebd85ae13c8ec8a2
     name: counter
@@ -29,7 +38,7 @@ entries:
     - counter-2021.11.26.tgz
     version: 2021.11.26
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.23954+01:00"
+    created: "2021-12-17T15:57:07.647181+01:00"
     description: A simple counter app
     digest: 3d946a33e5785d61f511c6bdf13a88404ef3bca20b7e8780f17fb324823ad888
     name: counter
@@ -38,7 +47,7 @@ entries:
     - counter-2021.10.13.tgz
     version: 2021.10.13
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.238969+01:00"
+    created: "2021-12-17T15:57:07.646512+01:00"
     description: Simple counter app
     digest: 42784c3604f16d1382cdb8428be02a8cd3cdc33d602c249cc6660f6110ca26a9
     name: counter
@@ -47,7 +56,7 @@ entries:
     - counter-2021.10.07.tgz
     version: 2021.10.07
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.238649+01:00"
+    created: "2021-12-17T15:57:07.646307+01:00"
     description: A simle counter app
     digest: 48cd6f1e6e4a2e3c8926285e30bfea591031e8644230973da0a56206b62bcb3e
     name: counter
@@ -56,7 +65,7 @@ entries:
     - counter-2021.08.19.tgz
     version: 2021.08.19
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.238441+01:00"
+    created: "2021-12-17T15:57:07.646069+01:00"
     description: A Helm chart example for ModernTV
     digest: 55e72eec1a7a58054ee6b607cc1ea30bfe6165f56925e72e8a9559a6f8716f5d
     name: counter
@@ -65,7 +74,7 @@ entries:
     - counter-2021.07.29.tgz
     version: 2021.07.29
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.237635+01:00"
+    created: "2021-12-17T15:57:07.645197+01:00"
     description: Simple counter app
     digest: 218cea76e222189268b4301ad2f15bf81b3c24665d2b5b986a6b6ea78b3bcbae
     name: counter
@@ -74,7 +83,7 @@ entries:
     - counter-2021.06.24.tgz
     version: 2021.06.24
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.237198+01:00"
+    created: "2021-12-17T15:57:07.644911+01:00"
     description: Simple Counter App
     digest: a16771e489d1fdcd175803cdc790e0cd0499cc990d5e4afe264483bc842c390e
     name: counter
@@ -83,7 +92,7 @@ entries:
     - counter-2021.06.22.tgz
     version: 2021.06.22
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.236339+01:00"
+    created: "2021-12-17T15:57:07.643666+01:00"
     description: Simple Counter App
     digest: 327415fb88a8533460497e4d54f5299daeee1bb19fe4bcb6178c469a1a7e5139
     name: counter
@@ -92,7 +101,7 @@ entries:
     - counter-2021.05.13.tgz
     version: 2021.05.13
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.235973+01:00"
+    created: "2021-12-17T15:57:07.643033+01:00"
     description: A simple counting app
     digest: f510f68c26490e3b4c379f0784560c6a075e808628508906aa1bf83fbdb0b025
     name: counter
@@ -101,7 +110,7 @@ entries:
     - counter-2021.04.16.tgz
     version: 2021.04.16
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.23538+01:00"
+    created: "2021-12-17T15:57:07.642478+01:00"
     description: Simple counter App
     digest: 256f4f6d99df2b0ca8c415e945e9e631a070a9f53a82ef03ea10fb807737bace
     name: counter
@@ -110,7 +119,7 @@ entries:
     - counter-2021.03.31.tgz
     version: 2021.03.31
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.235206+01:00"
+    created: "2021-12-17T15:57:07.642257+01:00"
     description: An Example App in Kubernetes
     digest: d1c909b1e664eaeb59630707637f0573c68e447719aff26736254a9b18b95831
     name: counter
@@ -119,7 +128,7 @@ entries:
     - counter-2021.02.11.tgz
     version: 2021.02.11
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.234924+01:00"
+    created: "2021-12-17T15:57:07.64203+01:00"
     description: Simple Example App for Kubernetes
     digest: caff3a84b42416eaefde0591a270b9a02daef3c354250742508b699c2b3815ac
     name: counter
@@ -128,7 +137,7 @@ entries:
     - counter-2021.01.29.tgz
     version: 2021.01.29
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.23422+01:00"
+    created: "2021-12-17T15:57:07.641104+01:00"
     description: Simple Counter App
     digest: 468750b1be64b20787da5017b5e5d7588bebe0903496c8749276cabe83403d99
     name: counter
@@ -137,7 +146,7 @@ entries:
     - counter-2020.10.29.tgz
     version: 2020.10.29
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.23401+01:00"
+    created: "2021-12-17T15:57:07.640883+01:00"
     description: Simple demo counter app
     digest: 6aafe89e721c1baceb01a73654492e5512cc15a0b98489a5f7009d0a2527345f
     name: counter
@@ -146,7 +155,7 @@ entries:
     - counter-2020.10.07.tgz
     version: 2020.10.07
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.233823+01:00"
+    created: "2021-12-17T15:57:07.640683+01:00"
     description: Simple counter app
     digest: 6414bb505c28edfb4fc87438186bf7c9e36b0214b1fdb8ef037c8e81dfad55dc
     name: counter
@@ -155,7 +164,7 @@ entries:
     - counter-2020.10.01.tgz
     version: 2020.10.01
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.233693+01:00"
+    created: "2021-12-17T15:57:07.640134+01:00"
     description: A simple counter app
     digest: fd1be2baf4b9c95a7709d87a1c1817e2ea8f0b3f6b1ad9e58c713ffa668a4b7d
     name: counter
@@ -164,7 +173,7 @@ entries:
     - counter-2020.09.18.tgz
     version: 2020.09.18
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.233568+01:00"
+    created: "2021-12-17T15:57:07.64001+01:00"
     description: Simple Counter App
     digest: 6961b084a9b3fd1efda1715ee751752f5671a42edecc1a242df7a81f6f89388c
     name: counter
@@ -173,7 +182,7 @@ entries:
     - counter-2020.08.26.tgz
     version: 2020.08.26
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.232891+01:00"
+    created: "2021-12-17T15:57:07.639861+01:00"
     description: A Helm chart for Counter
     digest: 46d48d8c25f6e7b7abe7a031d53841d1fed19e59f1139de35aca1d1c30f4692e
     name: counter
@@ -182,7 +191,7 @@ entries:
     - counter-2020.05.29.tgz
     version: 2020.05.29
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.232678+01:00"
+    created: "2021-12-17T15:57:07.639648+01:00"
     description: Simple Counter App
     digest: 5bed1b1c1b2fdc481488b24a5a91c99258c5e4c208369aa887219f7e78df2bc4
     name: counter
@@ -192,7 +201,7 @@ entries:
     version: 2020.04.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-10T14:49:22.232463+01:00"
+    created: "2021-12-17T15:57:07.639434+01:00"
     description: Counter App
     digest: 503ea9a136a4f80bd9c2bc1d5fe9ccdcfd3c885c998b2c90815eecf4aacb09b1
     name: counter
@@ -202,7 +211,7 @@ entries:
     version: 2019.02.05
   counter-simple:
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.240826+01:00"
+    created: "2021-12-17T15:57:07.649034+01:00"
     description: Simple Counter App (only one instance per namespace)
     digest: b249f670c4da261246512dab583cf875f0116368e4d3c2631cbf46658a3d688e
     name: counter-simple
@@ -212,7 +221,7 @@ entries:
     version: 2021.06.22
   wordpress:
   - apiVersion: v2
-    created: "2021-12-10T14:49:22.241093+01:00"
+    created: "2021-12-17T15:57:07.649291+01:00"
     description: Example Wordpress Chart (with MySQL)
     digest: 6f4ec6686d148b166c2c9cfa005307e0ab9babede1340f44ac1c003dde2e291c
     name: wordpress
@@ -220,4 +229,4 @@ entries:
     urls:
     - wordpress-2020.11.18.tgz
     version: 2020.11.18
-generated: "2021-12-10T14:49:22.231495+01:00"
+generated: "2021-12-17T15:57:07.638687+01:00"
