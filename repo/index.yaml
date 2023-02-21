@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   counter:
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.890118+01:00"
+    created: "2023-02-21T15:53:17.443723+01:00"
+    description: Example app for Kubernetes training
+    digest: 5566d1ae386ffc36ef517e73f8ed32068f23206dc2ba27ac6dbbac3db1b235a1
+    name: counter
+    type: application
+    urls:
+    - counter-2023.02.21.tgz
+    version: 2023.02.21
+  - apiVersion: v2
+    created: "2023-02-21T15:53:17.443488+01:00"
     description: Training example for Daktela
     digest: 7104a22be27c11c80d79431d0e940483c20d66354c414d0f1ef460ddd09a08bd
     name: counter
@@ -11,7 +20,7 @@ entries:
     - counter-2022.12.20.tgz
     version: 2022.12.20
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.889911+01:00"
+    created: "2023-02-21T15:53:17.442941+01:00"
     description: Example for mim.sk training
     digest: ad4baf6dd2de02fcc8d821a9f0c55cae03eb6edb4c8e077a4f9def40ee3132c9
     name: counter
@@ -20,7 +29,7 @@ entries:
     - counter-2022.12.14.tgz
     version: 2022.12.14
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.889676+01:00"
+    created: "2023-02-21T15:53:17.44253+01:00"
     description: Example app for O2 training
     digest: cc3b96eb2afd4abfb02bcbda7dc8b8c97835d2e1b5f084e329d4ec7c76761b1e
     name: counter
@@ -29,7 +38,7 @@ entries:
     - counter-2022.12.01.tgz
     version: 2022.12.01
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.889591+01:00"
+    created: "2023-02-21T15:53:17.442094+01:00"
     description: An Example App for SPCSS Training
     digest: 19c59d09d0558330309fe3742984fcb9bfc62e434f15c0e1a6b0f50c558a48b1
     name: counter
@@ -38,7 +47,7 @@ entries:
     - counter-2022.11.15.tgz
     version: 2022.11.15
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.889234+01:00"
+    created: "2023-02-21T15:53:17.441648+01:00"
     description: Example counter app for Tieto training
     digest: 906091245cb9ec0c7d61828031b28a8dad39aa15b6981fc047340f334760f846
     name: counter
@@ -47,7 +56,7 @@ entries:
     - counter-2022.11.10.tgz
     version: 2022.11.10
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.888878+01:00"
+    created: "2023-02-21T15:53:17.441304+01:00"
     description: An example counter app for Thermo Fisher workshop
     digest: 4ba154bf479c338fc9bda1f4e35d4bf44565a51aeea2327c077e91656d0904af
     name: counter
@@ -56,7 +65,7 @@ entries:
     - counter-2022.10.27.tgz
     version: 2022.10.27
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.888513+01:00"
+    created: "2023-02-21T15:53:17.440982+01:00"
     description: Example app for Kubernetes Training
     digest: c3ef66caad8ed628bf46ada2e4453575d3cbcd968d846e62cbe33ae6819b0c02
     name: counter
@@ -65,7 +74,7 @@ entries:
     - counter-2022.10.18.tgz
     version: 2022.10.18
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.888065+01:00"
+    created: "2023-02-21T15:53:17.440527+01:00"
     description: An example app for Frequentis
     digest: 64f6c73325ae983311b239dff507a791e1f3b8f222e58890101d6af529aac6bf
     name: counter
@@ -74,7 +83,7 @@ entries:
     - counter-2022.10.07.tgz
     version: 2022.10.07
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.887523+01:00"
+    created: "2023-02-21T15:53:17.440159+01:00"
     description: Example app for TTC training
     digest: b440a3506da6fa33f86a5745dad8ea7ce4eaafd1a9dd3a6c4c1b64713f427cad
     name: counter
@@ -83,7 +92,7 @@ entries:
     - counter-2022.10.06.tgz
     version: 2022.10.06
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.8867+01:00"
+    created: "2023-02-21T15:53:17.439818+01:00"
     description: Example counter app for TietoEvry workshop
     digest: e5722a4538107ccfa6755659ad485902a2884b5b7efca2783e5d302e92a9dd17
     name: counter
@@ -92,7 +101,7 @@ entries:
     - counter-2022.09.20.tgz
     version: 2022.09.20
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.886212+01:00"
+    created: "2023-02-21T15:53:17.439402+01:00"
     description: Counter example @ Aardwark
     digest: 2ae6c97389b8ab73fb34264157b704a395eb402ad64abf58e258c34e6af7c1c6
     name: counter
@@ -101,7 +110,7 @@ entries:
     - counter-2022.09.09.tgz
     version: 2022.09.09
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.885853+01:00"
+    created: "2023-02-21T15:53:17.439066+01:00"
     description: A example Chart for Thermo Fisher Training
     digest: 1f01232835dc4ae7a2c65772c190be2669e3f878773a738ce9a4774f96d8182c
     name: counter
@@ -110,7 +119,7 @@ entries:
     - counter-2022.08.31.tgz
     version: 2022.08.31
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.88543+01:00"
+    created: "2023-02-21T15:53:17.43816+01:00"
     description: Example Counter Application
     digest: e4508a17ca6007b2c1ed82751bd3fbe608dba319238c585cab10f868312cfad8
     name: counter
@@ -119,7 +128,7 @@ entries:
     - counter-2022.06.28.tgz
     version: 2022.06.28
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.885265+01:00"
+    created: "2023-02-21T15:53:17.437987+01:00"
     description: Example Counter Application
     digest: c6a53b80d2f8e46c5e192c795b5d33e66aed83d99658d3231af016d31a1ae695
     name: counter
@@ -128,7 +137,7 @@ entries:
     - counter-2022.06.14.tgz
     version: 2022.06.14
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.885131+01:00"
+    created: "2023-02-21T15:53:17.437851+01:00"
     description: An example counter app
     digest: 3d053937cfc44b754614f2b6b6b62312bbee4505e79e55d74d421b32c7c751a3
     name: counter
@@ -137,7 +146,7 @@ entries:
     - counter-2022.06.07.tgz
     version: 2022.06.07
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.885019+01:00"
+    created: "2023-02-21T15:53:17.437697+01:00"
     description: A Helm chart for Kubernetes
     digest: d04550c4441a42aa495e04c50408aa633a21de0cc1d2083b0c8596f5177e492a
     name: counter
@@ -146,7 +155,7 @@ entries:
     - counter-2022.05.31.tgz
     version: 2022.05.31
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884915+01:00"
+    created: "2023-02-21T15:53:17.437563+01:00"
     description: Simple Counter App
     digest: 944c13c87c55431382942d19a8cf115d74b0d34528d88bc51a42d1497c2de2d0
     name: counter
@@ -155,7 +164,7 @@ entries:
     - counter-2022.01.27.tgz
     version: 2022.01.27
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884811+01:00"
+    created: "2023-02-21T15:53:17.437435+01:00"
     description: A simple counter app
     digest: 8f744cf96dd1a5b1f97a086a44bfea3aeb11c86184d0fc976f4023769917f98d
     name: counter
@@ -164,7 +173,7 @@ entries:
     - counter-2021.12.17.tgz
     version: 2021.12.17
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884701+01:00"
+    created: "2023-02-21T15:53:17.437295+01:00"
     description: A simple app
     digest: 79463025f0fb4b8eda8f5bfbfb49fd21b760ff4d1b59a1b26da8a6d91ee69336
     name: counter
@@ -173,7 +182,7 @@ entries:
     - counter-2021.12.10.tgz
     version: 2021.12.10
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884567+01:00"
+    created: "2023-02-21T15:53:17.437144+01:00"
     description: A simple counter app
     digest: 0c45feb247f09876b478995a8fdabfdb0517ac65024bf5cb792d57baca49f96f
     name: counter
@@ -182,7 +191,7 @@ entries:
     - counter-2021.12.02.tgz
     version: 2021.12.02
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884442+01:00"
+    created: "2023-02-21T15:53:17.437018+01:00"
     description: Simple Counter App
     digest: a3ed9f6053ff63ad5427a3b317767268a5f4814247e09515ebd85ae13c8ec8a2
     name: counter
@@ -191,7 +200,7 @@ entries:
     - counter-2021.11.26.tgz
     version: 2021.11.26
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.884205+01:00"
+    created: "2023-02-21T15:53:17.436787+01:00"
     description: A simple counter app
     digest: 3d946a33e5785d61f511c6bdf13a88404ef3bca20b7e8780f17fb324823ad888
     name: counter
@@ -200,7 +209,7 @@ entries:
     - counter-2021.10.13.tgz
     version: 2021.10.13
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.883804+01:00"
+    created: "2023-02-21T15:53:17.436373+01:00"
     description: Simple counter app
     digest: 42784c3604f16d1382cdb8428be02a8cd3cdc33d602c249cc6660f6110ca26a9
     name: counter
@@ -209,7 +218,7 @@ entries:
     - counter-2021.10.07.tgz
     version: 2021.10.07
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.883694+01:00"
+    created: "2023-02-21T15:53:17.436263+01:00"
     description: A simle counter app
     digest: 48cd6f1e6e4a2e3c8926285e30bfea591031e8644230973da0a56206b62bcb3e
     name: counter
@@ -218,7 +227,7 @@ entries:
     - counter-2021.08.19.tgz
     version: 2021.08.19
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.883422+01:00"
+    created: "2023-02-21T15:53:17.435968+01:00"
     description: A Helm chart example for ModernTV
     digest: 55e72eec1a7a58054ee6b607cc1ea30bfe6165f56925e72e8a9559a6f8716f5d
     name: counter
@@ -227,7 +236,7 @@ entries:
     - counter-2021.07.29.tgz
     version: 2021.07.29
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.882912+01:00"
+    created: "2023-02-21T15:53:17.435428+01:00"
     description: Simple counter app
     digest: 218cea76e222189268b4301ad2f15bf81b3c24665d2b5b986a6b6ea78b3bcbae
     name: counter
@@ -236,7 +245,7 @@ entries:
     - counter-2021.06.24.tgz
     version: 2021.06.24
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.882781+01:00"
+    created: "2023-02-21T15:53:17.435312+01:00"
     description: Simple Counter App
     digest: a16771e489d1fdcd175803cdc790e0cd0499cc990d5e4afe264483bc842c390e
     name: counter
@@ -245,7 +254,7 @@ entries:
     - counter-2021.06.22.tgz
     version: 2021.06.22
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.882349+01:00"
+    created: "2023-02-21T15:53:17.434854+01:00"
     description: Simple Counter App
     digest: 327415fb88a8533460497e4d54f5299daeee1bb19fe4bcb6178c469a1a7e5139
     name: counter
@@ -254,7 +263,7 @@ entries:
     - counter-2021.05.13.tgz
     version: 2021.05.13
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.882238+01:00"
+    created: "2023-02-21T15:53:17.434707+01:00"
     description: A simple counting app
     digest: f510f68c26490e3b4c379f0784560c6a075e808628508906aa1bf83fbdb0b025
     name: counter
@@ -263,7 +272,7 @@ entries:
     - counter-2021.04.16.tgz
     version: 2021.04.16
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.881828+01:00"
+    created: "2023-02-21T15:53:17.434321+01:00"
     description: Simple counter App
     digest: 256f4f6d99df2b0ca8c415e945e9e631a070a9f53a82ef03ea10fb807737bace
     name: counter
@@ -272,7 +281,7 @@ entries:
     - counter-2021.03.31.tgz
     version: 2021.03.31
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.881716+01:00"
+    created: "2023-02-21T15:53:17.434207+01:00"
     description: An Example App in Kubernetes
     digest: d1c909b1e664eaeb59630707637f0573c68e447719aff26736254a9b18b95831
     name: counter
@@ -281,7 +290,7 @@ entries:
     - counter-2021.02.11.tgz
     version: 2021.02.11
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.881576+01:00"
+    created: "2023-02-21T15:53:17.434067+01:00"
     description: Simple Example App for Kubernetes
     digest: caff3a84b42416eaefde0591a270b9a02daef3c354250742508b699c2b3815ac
     name: counter
@@ -290,7 +299,7 @@ entries:
     - counter-2021.01.29.tgz
     version: 2021.01.29
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.881091+01:00"
+    created: "2023-02-21T15:53:17.433565+01:00"
     description: Simple Counter App
     digest: 468750b1be64b20787da5017b5e5d7588bebe0903496c8749276cabe83403d99
     name: counter
@@ -299,7 +308,7 @@ entries:
     - counter-2020.10.29.tgz
     version: 2020.10.29
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880969+01:00"
+    created: "2023-02-21T15:53:17.433357+01:00"
     description: Simple demo counter app
     digest: 6aafe89e721c1baceb01a73654492e5512cc15a0b98489a5f7009d0a2527345f
     name: counter
@@ -308,7 +317,7 @@ entries:
     - counter-2020.10.07.tgz
     version: 2020.10.07
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880863+01:00"
+    created: "2023-02-21T15:53:17.433243+01:00"
     description: Simple counter app
     digest: 6414bb505c28edfb4fc87438186bf7c9e36b0214b1fdb8ef037c8e81dfad55dc
     name: counter
@@ -317,7 +326,7 @@ entries:
     - counter-2020.10.01.tgz
     version: 2020.10.01
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880753+01:00"
+    created: "2023-02-21T15:53:17.433114+01:00"
     description: A simple counter app
     digest: fd1be2baf4b9c95a7709d87a1c1817e2ea8f0b3f6b1ad9e58c713ffa668a4b7d
     name: counter
@@ -326,7 +335,7 @@ entries:
     - counter-2020.09.18.tgz
     version: 2020.09.18
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880641+01:00"
+    created: "2023-02-21T15:53:17.432954+01:00"
     description: Simple Counter App
     digest: 6961b084a9b3fd1efda1715ee751752f5671a42edecc1a242df7a81f6f89388c
     name: counter
@@ -335,7 +344,7 @@ entries:
     - counter-2020.08.26.tgz
     version: 2020.08.26
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880527+01:00"
+    created: "2023-02-21T15:53:17.432634+01:00"
     description: A Helm chart for Counter
     digest: 46d48d8c25f6e7b7abe7a031d53841d1fed19e59f1139de35aca1d1c30f4692e
     name: counter
@@ -344,7 +353,7 @@ entries:
     - counter-2020.05.29.tgz
     version: 2020.05.29
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.880199+01:00"
+    created: "2023-02-21T15:53:17.432445+01:00"
     description: Simple Counter App
     digest: 5bed1b1c1b2fdc481488b24a5a91c99258c5e4c208369aa887219f7e78df2bc4
     name: counter
@@ -354,7 +363,7 @@ entries:
     version: 2020.04.17
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-20T16:12:24.879995+01:00"
+    created: "2023-02-21T15:53:17.432225+01:00"
     description: Counter App
     digest: 503ea9a136a4f80bd9c2bc1d5fe9ccdcfd3c885c998b2c90815eecf4aacb09b1
     name: counter
@@ -364,7 +373,7 @@ entries:
     version: 2019.02.05
   counter-openshift:
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.89166+01:00"
+    created: "2023-02-21T15:53:17.44509+01:00"
     description: A Counter app for OpenShift
     digest: 0fc16a9fe03dd1718a944509dec6347057ab74dd480a0f4d2c4b4702f233ffd3
     name: counter-openshift
@@ -373,7 +382,7 @@ entries:
     - counter-openshift-2022.09.28.tgz
     version: 2022.09.28
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.891294+01:00"
+    created: "2023-02-21T15:53:17.444652+01:00"
     description: A Counter app for OpenShift
     digest: 2d1e1868ef322eb91b759781188372bdbd43e8cad21fb522389123f5f631a73e
     name: counter-openshift
@@ -382,7 +391,7 @@ entries:
     - counter-openshift-2022.09.27.tgz
     version: 2022.09.27
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.890968+01:00"
+    created: "2023-02-21T15:53:17.444207+01:00"
     description: A Counter app for OpenShift
     digest: 3af480fc416e144ed0df08a7f14ebae2f9f1e9194ebf046964642fbeb906af83
     name: counter-openshift
@@ -392,7 +401,7 @@ entries:
     version: 2022.09.27-1
   counter-simple:
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.892082+01:00"
+    created: "2023-02-21T15:53:17.44565+01:00"
     description: Simple Counter App (only one instance per namespace)
     digest: b249f670c4da261246512dab583cf875f0116368e4d3c2631cbf46658a3d688e
     name: counter-simple
@@ -402,7 +411,7 @@ entries:
     version: 2021.06.22
   wordpress:
   - apiVersion: v2
-    created: "2022-12-20T16:12:24.892217+01:00"
+    created: "2023-02-21T15:53:17.44581+01:00"
     description: Example Wordpress Chart (with MySQL)
     digest: 6f4ec6686d148b166c2c9cfa005307e0ab9babede1340f44ac1c003dde2e291c
     name: wordpress
@@ -410,4 +419,4 @@ entries:
     urls:
     - wordpress-2020.11.18.tgz
     version: 2020.11.18
-generated: "2022-12-20T16:12:24.879306+01:00"
+generated: "2023-02-21T15:53:17.431669+01:00"
